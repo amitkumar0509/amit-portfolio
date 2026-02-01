@@ -117,7 +117,7 @@ export function Hero() {
               transition={{ delay: 1.5, duration: 0.8 }}
               className="text-base md:text-lg text-slate-300 max-w-xl leading-relaxed border-l-2 border-sky-500/50 pl-4"
             >
-              A passionate <span className="text-white font-medium">Data Analyst</span> and <span className="text-white font-medium">Software Engineer</span> with expertise in AI/ML systems. Specializing in <span className="text-sky-400">Real-time AI • Data pipelines • ML deployment</span>. I build intelligent, scalable, and real-world solutions by combining analytical thinking, clean code, and modern technologies.
+              A passionate Computer Science Engineering student with strong foundations in <span className="text-white font-medium">Python</span>, <span className="text-white font-medium">Data Analytics</span>, and <span className="text-white font-medium">AI/ML</span>. I build intelligent, scalable, and real-world solutions by combining analytical thinking, clean code, and modern technologies.
             </motion.p>
             
             {/* CTA Buttons */}
